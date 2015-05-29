@@ -1,4 +1,4 @@
-# apache2_php
+# lamp
 
 ## Usage
 To run the image
